@@ -6,7 +6,7 @@ A clean and responsive web application that fetches and displays products dynami
 
 ## 🌐 Live Demo
 
-👉 https://api-quotes-three.vercel.app/
+👉 https://product-listing-api-beryl.vercel.app/
 
 ---
 
